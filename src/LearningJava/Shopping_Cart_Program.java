@@ -12,7 +12,7 @@ public class Shopping_Cart_Program {
         char currency = '$';
         double total;
 
-        System.out.print("What idea would you like to buy? ");
+        System.out.print("What item would you like to buy? ");
         item = scanner.nextLine();
 
         System.out.print("What is the price for each? ");
