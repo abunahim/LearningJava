@@ -34,6 +34,9 @@ public class Banking_Program {
             }
         }
 
+        System.out.println(" ");
+        System.out.println("Thank You & Have A Nice Day");
+
         scanner.close();
     }
     static void showBalance(double balance){
