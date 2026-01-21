@@ -34,6 +34,7 @@ public class Quiz_Game {
                 System.out.println(option);
             }
 
+            System.out.println(" ");
             System.out.print("Enter your guess: ");
             guess = scanner.nextInt();
 
