@@ -26,7 +26,7 @@ public class SlotMachine_Game {
             scanner.nextLine();
 
             if(bet > balance){
-                System.out.println("INSUFFICIENT FUNDS");
+                System.out.println("INSUFFICIENT FUNDS!!!");
                 continue;
             }
             else if(bet <= 0){
