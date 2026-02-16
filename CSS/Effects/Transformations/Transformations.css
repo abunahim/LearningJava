@@ -1,0 +1,7 @@
+body{
+    margin: 0;
+}
+img{
+    height: 300px;
+    transform: translateX(40%) rotateZ(180deg) scaleX(1);
+}
