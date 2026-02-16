@@ -1,0 +1,21 @@
+@font-face {
+    src: url(Roboto.ttf) format("truetype");
+    font-family: "Roboto";
+}
+@font-face {
+    src: url(OpenSans.ttf) format("truetype");
+    font-family: "Open Sans";
+}
+@font-face {
+    src: url(PlaywriteNZBasic.ttf) format("truetype");
+    font-family: "PlaywriteNZBasic";
+}
+h1{
+    font-family: "PlaywriteNZBasic", Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: "Open Sans", "Lucida Sans";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
