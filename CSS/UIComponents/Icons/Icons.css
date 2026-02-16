@@ -1,0 +1,28 @@
+.icons{
+    text-align: center;
+}
+.icons a{
+    text-decoration: none;
+    margin: 20px;
+}
+.fa-solid.fa-house.fa-5x{
+    color: gray;
+}
+.fa-solid.fa-house.fa-5x:hover{
+    color: darkgray;
+}
+.fa-brands.fa-youtube.fa-5x{
+    color: red;
+}
+.fa-brands.fa-youtube.fa-5x:hover{
+    color: darkred;
+}
+.fa-solid.fa-gamepad.fa-5x{
+    color: black;
+}
+.fa-brands.fa-facebook.fa-5x{
+    color: blue;
+}
+.fa-brands.fa-facebook.fa-5x:hover{
+    color: darkblue;
+}
